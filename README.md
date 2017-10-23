@@ -1,9 +1,9 @@
-# Song Recommender System on Last.fm dataset
+# Song Recommender System using Last.fm dataset
 
 ## Task
 
 * Dataset : [Last.fm](http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/index.html)
-* Problem : Build a song recommender system for female users in the United Kingdom.
+* Problem : Build a song recommender system for female users in the United Kingdom
 * Algorithm : Memory-based Collaborative Filtering (CF) Recommender System
 
 ## What is in this repo
